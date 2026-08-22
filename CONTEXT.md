@@ -51,3 +51,15 @@ _Avoid_: Desktop file, real icon, debris
 **Gary Signal**:
 An occurrence that can end an action, request a reaction, or move Gary between modes.
 _Avoid_: Gary Event, behavior, animation
+
+**Primary Scene**:
+The recognizable intended performance of a Gary Action or Gary Event when its declared environmental prerequisites are available.
+_Avoid_: Happy path, animation, fallback
+
+**Safe Fallback**:
+A harmless bounded alternative or clean disappearance used when a Primary Scene cannot start or becomes invalid; it never substitutes for proving the Primary Scene under valid conditions.
+_Avoid_: Retry loop, skipped feature, degraded mode
+
+**Rough-complete v0.1**:
+The release state in which every promised Gary behavior has a proven Primary Scene, coherent exit, interruption cleanup, and Safe Fallback, although non-functional presentation polish may remain.
+_Avoid_: MVP, partial release, feature waiver
