@@ -24,6 +24,10 @@ _Avoid_: Installation, service, watchdog, current session
 The explicit cleanup outcome in which no Gary Startup, Gary Session, or Gary-owned per-user state remains. The portable executable remains a user-owned file.
 _Avoid_: Task Manager termination, Garynap, self-delete
 
+**Gary Disclosure**:
+The public trust notice identifying Gary as a harmless desktop prank with a rare default-on visual-and-sound scare and clear stop/removal directions, while leaving exact Gary Event choreography as spoiler material.
+_Avoid_: EULA, consent screen, full spoiler
+
 **Garynap**:
 A dormant period during which Gary disappears completely while remaining eligible to return later.
 _Avoid_: Exit, quit, shutdown
@@ -31,6 +35,10 @@ _Avoid_: Exit, quit, shutdown
 **Gary Session**:
 One uninterrupted lifetime of the Gary process, including time spent awake or in Garynap.
 _Avoid_: Installation, sign-in, action
+
+**Portable Run**:
+A Gary Session started directly by the user without arranging a future sign-in start.
+_Avoid_: Gary Startup, installation
 
 **Gary Mode**:
 Gary's one current top-level condition: Starting, Awake, Gary Event, Garynap, or Stopping.
