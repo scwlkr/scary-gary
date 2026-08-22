@@ -16,6 +16,14 @@ _Avoid_: Jumpscare, nightmare mode
 The normal default experience in which Gary Events are eligible to occur.
 _Avoid_: Optional horror mode, safety mode
 
+**Gary Startup**:
+A user-enabled per-user sign-in promise to begin a quiet Gary Session. It survives session termination but never resurrects Gary during the same sign-in.
+_Avoid_: Installation, service, watchdog, current session
+
+**Gary Removal**:
+The explicit cleanup outcome in which no Gary Startup, Gary Session, or Gary-owned per-user state remains. The portable executable remains a user-owned file.
+_Avoid_: Task Manager termination, Garynap, self-delete
+
 **Garynap**:
 A dormant period during which Gary disappears completely while remaining eligible to return later.
 _Avoid_: Exit, quit, shutdown
