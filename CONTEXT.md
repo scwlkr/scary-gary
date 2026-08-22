@@ -71,3 +71,7 @@ _Avoid_: Retry loop, skipped feature, degraded mode
 **Rough-complete v0.1**:
 The release state in which every promised Gary behavior has a proven Primary Scene, coherent exit, interruption cleanup, and Safe Fallback, although non-functional presentation polish may remain.
 _Avoid_: MVP, partial release, feature waiver
+
+**Vertical Milestone**:
+A dependency-ordered, runnable Gary increment that closes only when its promised user-visible behavior and acceptance evidence land together.
+_Avoid_: Phase, layer, component batch
