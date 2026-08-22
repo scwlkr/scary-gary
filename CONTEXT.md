@@ -9,7 +9,7 @@ The fictional desktop creature whose unexplained behavior ranges from stupid to 
 _Avoid_: Malware, virus, assistant
 
 **Gary Event**:
-An extremely rare, short scare sequence in which normal Gary behavior stops, a frightening interruption occurs, and the desktop immediately returns to normal.
+An extremely rare, short scare sequence in which Gary vanishes, a single dark blink and three-second silent absence precede a full-screen face-and-sound interruption, and the desktop immediately returns to normal.
 _Avoid_: Jumpscare, nightmare mode
 
 **Scary Mode**:
