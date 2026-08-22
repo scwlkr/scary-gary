@@ -32,6 +32,14 @@ _Avoid_: Behavior, animation, mood
 One bounded routine or reaction performed while Gary is awake, including any signs, garbage, or fake icons that belong to it.
 _Avoid_: Mode, event, concurrent behavior
 
+**Gary Doze**:
+A visible Gary Action in which Gary briefly sleeps while remaining present on the desktop.
+_Avoid_: Garynap, sleep mode, shutdown
+
+**Gary Prop**:
+A bundled, Gary-owned visual such as a sign, piece of garbage, or fake icon that exists only as part of its current Gary Action.
+_Avoid_: Desktop file, real icon, debris
+
 **Gary Signal**:
 An occurrence that can end an action, request a reaction, or move Gary between modes.
 _Avoid_: Gary Event, behavior, animation
