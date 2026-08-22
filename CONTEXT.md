@@ -19,3 +19,19 @@ _Avoid_: Optional horror mode, safety mode
 **Garynap**:
 A dormant period during which Gary disappears completely while remaining eligible to return later.
 _Avoid_: Exit, quit, shutdown
+
+**Gary Session**:
+One uninterrupted lifetime of the Gary process, including time spent awake or in Garynap.
+_Avoid_: Installation, sign-in, action
+
+**Gary Mode**:
+Gary's one current top-level condition: Starting, Awake, Gary Event, Garynap, or Stopping.
+_Avoid_: Behavior, animation, mood
+
+**Gary Action**:
+One bounded routine or reaction performed while Gary is awake, including any signs, garbage, or fake icons that belong to it.
+_Avoid_: Mode, event, concurrent behavior
+
+**Gary Signal**:
+An occurrence that can end an action, request a reaction, or move Gary between modes.
+_Avoid_: Gary Event, behavior, animation
